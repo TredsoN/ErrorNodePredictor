@@ -4,4 +4,4 @@ An error node predict system written in python.
 
 Work done by Wang Zilong, Liu Zechen, Sheng Rui.
 
-Entry for software cup 2020.
+Entry for Software Cup Competetion 2020.
